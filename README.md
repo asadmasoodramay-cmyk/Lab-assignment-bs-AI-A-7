@@ -1,0 +1,1 @@
+In this Assignment I have create student Result System , Statement Count logic, Billing System With Discount, Mini and Limited Calculator, Given Menu and Bill calculate. This All Program Create in Basic Concept of Python Language. In the All program add File Handling without 1 or 2 task.
